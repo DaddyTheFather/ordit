@@ -1,0 +1,10 @@
+{
+    "name": "ClusterHPAY",
+    "type": "mongodb-atlas",
+    "config": {
+        "clusterName": "ClusterHPAY",
+        "readPreference": "primary",
+        "wireProtocolEnabled": false
+    },
+    "version": 1
+}
